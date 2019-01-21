@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Hobbies
+   1. Photography
+   2. Learning new technologies
+   3. Weight-lifting
